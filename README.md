@@ -5,7 +5,7 @@
 ## 開発プロジェクト
 
 ### [CarePact｜家族の介護分担を支援するWebアプリ](https://github.com/Devfest-Hackathon-2026/df-2026-t159)
-**チーム開発 · DevFest GDGoC Japan Hackathon 2026 決勝進出**  
+**🎉チーム開発 · DevFest GDGoC Japan Hackathon 2026 決勝進出🎉**  
 Next.js / TypeScript / Firebase / Gemini
 
 家族のメモからGeminiで希望や制約を整理し、週間ボード上で介護の分担を検討できるアプリです。費用や制約のチェックはルールベースで行います。私はトップページの導線改善を担当し、[デモ用の介護プラン2案を独立に検算](https://github.com/Devfest-Hackathon-2026/df-2026-t159/blob/main/docs/fixture-check-hirabayashi.md)して、計算値が一致することを確かめ、説明とデータの食い違いを指摘しました。
