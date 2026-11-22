@@ -1,4 +1,4 @@
-# Kento Hirabayashi
+# Kento Hirabayashi🏐
 
 東京科学大学大学院で経営工学を専攻し、協力ゲーム理論を研究しています。
 
